@@ -5,7 +5,7 @@ from random import uniform
 
 pw = ''
 
-for i in range(5):
+for i in range(4):
 	pw += ln.getline('words.txt', int(uniform(0, 354985)))[:-1] + ' '
 
 print(pw)
