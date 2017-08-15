@@ -1,5 +1,5 @@
 # password_generator
-Hack to generate easy-to-remember (sorta) passwords with a similar amount of entropy as a typical 16-character randomly generated password. In this case, that means five english words. Based on the idea from the popular xkcd.
+Hack to generate easy-to-remember (sorta) passwords with a similar amount of entropy as a typical 12-character randomly generated password. In this case, that means four english words. Based on the idea from the popular xkcd.
 
 ## Why?
 
